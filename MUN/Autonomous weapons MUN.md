@@ -25,6 +25,28 @@ WE believe that the development of A.I. for military purposes is one of the larg
 	 
 - The robots have luckily not yet been used for military purposes yet, but if a *normal* person can make something like that, a military power can do something much worse
 
+Proposal to control:
+ - People are unable to buy them without a permit, or any kind of way to identify individuals who buy them.
+ - A transponder like technology so it is possible to identify whose robot it is. 
+
+
 ## Use of autonomous weapons
 Iceland disagrees with any kind of autonomous weapons, and we believe that is on of the biggest risks to peace and prosperity
 
+
+## IIIM Ethics policy
+
+**1** – IIIM’s aim is to advance scientific understanding of the world, and to enable the application of this knowledge for the benefit and betterment of humankind.
+
+**2** – IIIM will not undertake any project or activity intended to (2a) cause bodily injury or severe emotional distress to any person, (2b) invade the personal privacy or violate the human rights of any person, as defined by the United Nations Declaration of Human Rights, (2c) be applied to unlawful activities, or (2d) commit or prepare for any act of violence or war.
+
+**2.1** – IIIM will not participate in projects for which there exists any reasonable evidence of activities 2a, 2b, 2c, or 2d listed above, whether alone or in collaboration with governments, institutions, companies, organizations, individuals, or groups.
+
+**2.2** – IIIM will not accept military funding for its activities. ‘Military funding’ is defined as any and all funds designated to support the activities of governments, institutions, companies, organizations, and groups, explicitly intended for furthering a military agenda, or to prepare for or commit to any act of war.
+
+**2.3** – IIIM will not collaborate with any institution, company, group, or organization whose existence or operation is explicitly, whether in part or in whole, sponsored by military funding as described in 2.2 or controlled by military authorities. For civilian institutions with a history of undertaking military-funded projects a 5-15 rule will be applied: if for the past 5 years 15% or more of their projects were sponsored by such funds, they will not be considered as IIIM collaborators.
+
+## General speech
+We urge all the countries to review their position on the issue of autonomous weapons, while Iceland has in the past not opposed to military matters
+ FULL HUMAN CONTROL
+ 
