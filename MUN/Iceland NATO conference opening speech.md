@@ -13,6 +13,6 @@ We will however offer suport as a Strategic postion if there was any conflict to
 Dear esteemed delegates and honorable chair,
 
 We are the delegation of Iceland, and we recognize the danger posed by artificial intelligence if used by the military.
-The IIIM which stands for the Icelandic institute for Intelligent Machines has publicly shunned the development of A.I. 
-WE believe that the development of A.I. for mlitary purpouses is on of the largest therets to global peace and stability. 
+The IIIM which stands for the Icelandic institute for Intelligent Machines has publicly shunned the development of A.I. for military uses.
+IN FACT, WE believe that the development of A.I. for military purposess is on of the largest threats to global peace and stability. 
 
