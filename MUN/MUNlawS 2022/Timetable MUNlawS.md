@@ -23,7 +23,7 @@ _Sunday 13 November 2022_
 | 9.30-11.30  | Committee session 6 |
 |:----------- |:------------------- |
 | 11.30-12.00 | Coffee Break        |
-| 12.00-14.00 | Committee session 7 | 
+| 12.00-14.00 | Committee session 7 |
 | 14.00-16.00 | Lunch               |
 | 16.00-17.00 | Closing ceremony    |
 

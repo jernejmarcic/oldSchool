@@ -35,7 +35,6 @@ Iceland disagrees with any kind of autonomous weapons, and we believe that is on
 
 
 ## IIIM Ethics policy
-
 **1** – IIIM’s aim is to advance scientific understanding of the world, and to enable the application of this knowledge for the benefit and betterment of humankind.
 
 **2** – IIIM will not undertake any project or activity intended to (2a) cause bodily injury or severe emotional distress to any person, (2b) invade the personal privacy or violate the human rights of any person, as defined by the United Nations Declaration of Human Rights, (2c) be applied to unlawful activities, or (2d) commit or prepare for any act of violence or war.
