@@ -42,3 +42,16 @@ TEME: Vera in odnos do nje
 5. **Citat - komentarji:**
 	- *"Vsak dan je fotografiral, to je bilo najstrožje prepovedano, enkrat so ga celo ustavili, a je v zadnjem trenutku ušel"*
 	- Ta Citat nam predstavi kako vsi tvjegajo svjo življenje, čeprav imajo druužine ali koga druge drugega ki jih čaka doma.
+
+
+PISMO
+| Razdelitev razredov –> Vložena Zgodba |
+
+O hišni pomočnici Mehri:
+- Ljubezen, se zaljubi
+- Nepismena
+- Odraščala pri njih (10 let)
+- podeželje, revščina, veliko otrok
+
+ - Protesti --- nasilje
+ - 
