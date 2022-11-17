@@ -21,12 +21,12 @@ TEME: Vera in odnos do nje
 	- Revolucija
 2. **Slika**
 	- Tema družene spremember in Revolucije:
-	![[Revolucija in spememba.png]]
+	![[Revolucija in spememba.png | 400]]
 	Ta slike prika yuje družbeno spremembo in pogum teh ki demostrijajaro in tudi teh ki fotografirajo proteste, in ražširjajo besedo.
 	
  - Tema družne:
  Skrb da ba bodo vsi preživali, in ljubeyen v času zla.
- ![[Tema družine.png]]
+ ![[Tema družine.png| 400]]
 
 3. **Marjenina spoznanja**
 	- Žili izvedeti kaj je z dedkom
