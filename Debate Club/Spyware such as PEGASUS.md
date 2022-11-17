@@ -5,11 +5,14 @@ Pegasus is apyware developed by the [NSO group](https://www.nsogroup.com/), a pr
 
 The software can infect Andoid and iOS phones through a 0-Day exploit and can see ALL the data on the phone (picture, messages, files, etc)
 
+**Mention Anom phones
+Mention the Panopticon**
+
 ## Arguments
 ### For the use
 "Do you have anything to hide?"
 
-	"If wou have nothing to hide, you have nothing to fear"
+	"If you have nothing to hide, you have nothing to fear"
 
  - National security
  - Catching terrorists
