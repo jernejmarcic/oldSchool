@@ -12,9 +12,9 @@ The software can infect Andoid and iOS phones through a 0-Day exploit and can se
 	"If wou have nothing to hide, you have nothing to fear"
 
  - National security
- - Cathing terrorists
+ - Catching terrorists
 
 ### Against the use
- - A thret to democracy
+ - A threat to democracy
  - Threat to trust
  - 
