@@ -1,3 +1,6 @@
+#MUNlaws2022
+
+
 1.) Iceland sees any Artificial Intelligence intent to cause any kind of bodily or emotional harm as harmful.
 
 2.) As stated before, Iceland is non-militaristic and pacifist, no military manufacturing will be conducted.

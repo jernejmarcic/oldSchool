@@ -1,3 +1,4 @@
+#MUNlaws2022
 
 ### A.I. and autonomous weapons
 Dear esteemed delegates and honorable chair,

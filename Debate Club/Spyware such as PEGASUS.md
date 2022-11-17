@@ -1,3 +1,5 @@
+#Debate_Club
+
 # PEGASUS, a threat to Democracy
 ![[PEGASUS.jpg | 550]]
 Pegasus is apyware developed by the [NSO group](https://www.nsogroup.com/), a private company that creates spyware and other software 

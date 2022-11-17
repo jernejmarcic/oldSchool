@@ -1,3 +1,5 @@
+#MUNlaws2022
+
 Dear Honorable chair and esteemed delegates,
 
 The delegation of Iceland agrees and is already working on many of the points proposed by the resolution.
