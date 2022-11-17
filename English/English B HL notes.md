@@ -52,7 +52,7 @@ With a Healthy lifestulele might assosiate exercize, healthy eating, such as fre
   
 
 **IMG 1**
-
+![[IMG-1 Boy Sleeping next to computer.png]]
 The image shows a boy who look to be still in school falling asleep in front of his laptop which is shining brightly (lightmode user) infront of hist face. He is also laying in his clothes and in an strange position. The surroundings are also very dark exepct for ,what is most likely, a power indicator button behind his bed.
 
 What the boy is doing is very unhealthy as the bright light of the laptop contrasted to the dark suroundings is damaging to the eyes, and his sleep schedule. The bright ligh infront of his eyes will also damage his sleep quality. The position he is laying inis also very uncomfortable and unhealthy and when he wakes up he will most likely have pain in his neck and other parts of his body, he will also wake up unrested and will be most likely tired and grumpy throught the day.
@@ -60,7 +60,7 @@ What the boy is doing is very unhealthy as the bright light of the laptop contra
   
 
 **IMG 2**
-
+![[IMG-2 girl looking sad.png]]
 The girl seem to look sad and nervous, she is also fidgeting with the ends of her hair. Since she is looking at the mirror while touching her hair with a sad experssion might mean that she is unhappy with something about her hair.
 
 **TURE AND FALSE**
