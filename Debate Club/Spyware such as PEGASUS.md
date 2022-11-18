@@ -22,4 +22,3 @@ Mention the Panopticon**
 ### Against the use
  - A threat to democracy
  - Threat to trust
- - 

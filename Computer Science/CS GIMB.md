@@ -34,6 +34,7 @@ xzyw + xyz'w + xyzw' + x'yzw + x'y'zw + x'yzw'
 
 7-segments displays
 ![[7-segment-diplay-number.png]]
+
 ![[7-segment diplay, with letters.webp]]
 
 4-bit = 16 different options
