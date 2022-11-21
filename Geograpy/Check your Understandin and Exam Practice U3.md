@@ -14,4 +14,14 @@ A anti-natalist policy is a policy that discourages families from having big fam
 
 4. **Briefly describe the impact of China's one child policy.**
 China's one child policy has had many negative impacts on the economy and the demographics of China.
-Due to the policy the TFR (total fertility rate) rate fell below the 2.1 needed for a sustainable population
+Due to the policy the TFR (total fertility rate) rate fell below the 2.1 needed for a sustainable population.
+![[ChinaPopulationPyramid.png]]
+As seen on the population pyramid above there is very little [[Younger dependant]]. This will cause similar problems to Japan when the [[Working age population]] will reach retirement age and become [[Older dependant]].
+
+Chinese children born after the policy will also have to face the 1-2-4 problem, which means that one child will have to support 2 parents and 4 grandparents.
+
+	"Chinas one child policy didn't fail, it wokred too well"
+
+5. **Outline the successes of Kerala in terms of gender equality.**
+Kerala is one of the 28 states of India.
+It is the by far most progressive states in India (read )

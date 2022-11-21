@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ed247696536391d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geograpy/Case Stuides/Case study Kerala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geograpy/Check your Understandin and Exam Practice U3.md",
+                "file": "Geograpy/Case Stuides/Case study Kerala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geograpy/Check your Understandin and Exam Practice U3.md",
+                "file": "Geograpy/Case Stuides/Case study Kerala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geograpy/Check your Understandin and Exam Practice U3.md"
+                "file": "Geograpy/Case Stuides/Case study Kerala.md"
               }
             }
           },
@@ -152,17 +165,17 @@
     "direction": "horizontal",
     "width": 348.5
   },
-  "active": "6f8ff46ceab28dc7",
+  "active": "6ed247696536391d",
   "lastOpenFiles": [
-    "Geograpy/Case Stuides/Case study China.md",
     "Geograpy/Check your Understandin and Exam Practice U3.md",
+    "Geograpy/Geography HL.md",
+    "Geograpy/Climate Change In Iceland Slides.md",
+    "Geograpy/Case Stuides/Case Study South Korea.md",
+    "Geograpy/Case Stuides/Case study China.md",
     "Geograpy/Case Stuides/Case Study Ethiopia.md",
     "Geograpy/Case Stuides/Case study Russia.md",
-    "Geograpy/Case Stuides/Case Study South Korea.md",
     "Geograpy/Case Stuides/Case study Japan.md",
     "Geograpy/Definitions/Older dependant.md",
-    "Debate Club/Spyware such as PEGASUS.md",
-    "Debate Club/PEGASUS.jpg",
-    "Debate Club/Israeli spyware company NSO Group placed on US blacklist.md"
+    "Debate Club/Spyware such as PEGASUS.md"
   ]
 }
