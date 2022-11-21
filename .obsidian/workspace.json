@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "cccde4f4ed8cbd28",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c98782869e81b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8ff46ceab28dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geograpy/Check your Understandin and Exam Practice U3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "104734f0faa8a45b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbd8ddb9c5f3994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7de4ba990ea296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "765db6cbb6f11493",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "481520d222a49496",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fa85f8113504c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c448e0e8f414e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4f8dd1601b4d74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geograpy/Check your Understandin and Exam Practice U3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71ee450d13ae3ba8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geograpy/Check your Understandin and Exam Practice U3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c22d20887586e60e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32490bf6e04bf393",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geograpy/Check your Understandin and Exam Practice U3.md"
+              }
+            }
+          },
+          {
+            "id": "97dda4f289fbca21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dc5756f857080b2",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "active": "6f8ff46ceab28dc7",
+  "lastOpenFiles": [
+    "Geograpy/Case Stuides/Case study China.md",
+    "Geograpy/Check your Understandin and Exam Practice U3.md",
+    "Geograpy/Case Stuides/Case Study Ethiopia.md",
+    "Geograpy/Case Stuides/Case study Russia.md",
+    "Geograpy/Case Stuides/Case Study South Korea.md",
+    "Geograpy/Case Stuides/Case study Japan.md",
+    "Geograpy/Definitions/Older dependant.md",
+    "Debate Club/Spyware such as PEGASUS.md",
+    "Debate Club/PEGASUS.jpg",
+    "Debate Club/Israeli spyware company NSO Group placed on US blacklist.md"
+  ]
+}
