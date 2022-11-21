@@ -24,4 +24,12 @@ Chinese children born after the policy will also have to face the 1-2-4 problem,
 
 5. **Outline the successes of Kerala in terms of gender equality.**
 Kerala is one of the 28 states of India.
-It is the by far most progressive states in India (read )
+It is the by far most progressive states in India (read [[Case study Kerala]]). The biggest success of Kerala are:
+ - There is a tradition of female employment, with girls educated to the same standard as boys.
+ - There is open access to universities and colleges where women often study to be doctors and nurses.
+ - Jobs have been open to women in health and education since the early 20th century.
+ - Women have autonomy in their personal life, where there is no tradition of dowries and  
+ there are no obstacles to remarriage.
+
+6. **Suggest ways in which gender equality in Kerala can be improved.**
+

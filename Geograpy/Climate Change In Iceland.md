@@ -55,7 +55,9 @@ Unitary parlamentary republic (multi party system)
 
 **Date format:** Normal
 
-## How Climate change is affecting the Gepgraphy of Iceland
+## How Climate change is affecting the Geography of Iceland
+Iceland's glaciers are melting
+
 
 
 ## How Climate change is affecting the Economy of Iceland
