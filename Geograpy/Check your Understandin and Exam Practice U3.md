@@ -1,5 +1,7 @@
 #Geography
 
+# Check you understanding
+
 ![[CheckYourUnderstandingP.432.png]]
 
 1. **Explain the term “older dependency ratio”.**
@@ -46,11 +48,28 @@ The TVPA contains three main components:
 Other attempts include:
  - Raising public awareness
  - Passing policies that will prevent trafficking
- - Governments having up-to-date  registrations of births and migrations in the area
+ - Governments having up-to-date registrations of births and migrations in the area
  - Allowing trade Unions
 
 8. **Evaluate the methods to combat the trafficking of people**
 Just one of these methods will do little in preventing human trafficking, however many laws and policies together can do a lot in preventing. The most effective way to prevent human trafficking would be to fix the root problems in the source countries.
 For example:
  - *Raising public awernes*, helps by people being more aware of the problem, and noticing the signs of it actually happening
- - 
+ - *Governments having up-to-date registrations of births and migrations in the area*, helps, since the governments will be able to know who enters the country, and since "unregistered" people are at the highest risk of abuse.
+
+9. **Define the term "Demographic Dividend"**
+The demographic dividend refers to a bulge in the number of adults in a population. It occurs when fertility rates decline, allowing faster economic growth. The decline in fertility often follows a decline in infant and child mortality rates, as well as increased life expectancy. As families recognize that fewer of their children will die during infancy or childhood, they begin to have fewer children. However, this drop in fertility rates is not immediate. The lag between falling death rates and falling fertility produces a bulge in the population that surges through age groups (cohorts). For a period of time, this “bulge” increases the dependency ratio. Eventually, this cohort begins to enter the workforce. As fertility rates continue to fall and the elderly population still have relatively short life expectancies, the dependency ratio drops dramatically. With fewer younger dependents and fewer older dependents, the largest segment of the population is people of productive working age. Thus the dependency ratio declines dramatically, leading to the demographic dividend.
+
+10. **Outline the advantages of the Demographic dividend**
+The demographic dividend can deliver a number of benefits. The first is the increased labour supply. However, this depends on the ability of the economy to absorb and productively employ the extra workers. The second is the increase in savings. As the number of dependents decreases, individuals can save more. Thirdly, decreases in fertility rates result in healthier women and fewer social and economic pressures at home. This also allows parents to invest more resources per child, leading to better health and educational outcomes. Finally, the increasing domestic demand brought about by the increasing GDP per capita and the decreasing dependency ratio leads to economic growth.
+
+
+# Exam practice
+
+(a) 
+	(i) **Define the term "dependency ratio"**
+		The dependency ratio is the ratio of [[Younger dependant]] and [[Older dependant]] divided by the [[Working age population]].
+	(ii) **Compare the dependency ratio of asylum seekers with that of the general population**
+		While the ratios on the graph vary wildly, with the exception of Sweden Asylum seekers generally have a lower dependency ratio than the working population.
+	(iii) **Suggest reasons for the differences you have outlined**
+		It may be due to the fact that old and young people would not be able to make the journey without assistance
