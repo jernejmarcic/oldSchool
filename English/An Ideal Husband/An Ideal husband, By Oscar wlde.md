@@ -8,7 +8,7 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: An Ideal Husband
+# An Ideal Husband
        A Play
 
 Author: Oscar Wilde
@@ -94,7 +94,7 @@ MRS. CHEVELEY
 THE SCENES OF THE PLAY
 
 
-ACT I.  _The Octagon Room in Sir Robert Chiltern’s House in Grosvenor
+ACT I. _The Octagon Room in Sir Robert Chiltern’s House in Grosvenor
 Square_.
 
 ACT II.  _Morning-room in Sir Robert Chiltern’s House_.
@@ -121,26 +121,28 @@ THEATRE ROYAL, HAYMARKET
 
                           _January_ 3_rd_, 1895
 
-THE EARL OF CAVERSHAM       _Mr. Alfred Bishop_.
-VISCOUNT GORING             _Mr. Charles H. Hawtrey_.
-SIR ROBERT CHILTERN         _Mr. Lewis Waller_.
-VICOMTE DE NANJAC           _Mr. Cosmo Stuart_.
-MR. MONTFORD                _Mr. Harry Stanford_.
-PHIPPS                      _Mr. C. H. Brookfield_.
-MASON                       _Mr. H. Deane_.
-JAMES                       _Mr. Charles Meyrick_.
-HAROLD                      _Mr. Goodhart_.
-LADY CHILTERN               _Miss Julia Neilson_.
-LADY MARKBY                 _Miss Fanny Brough_.
-COUNTESS OF BASILDON        _Miss Vane Featherston_.
-MRS. MARCHMONT              _Miss Helen Forsyth_.
-MISS MABEL CHILTERN         _Miss Maud Millet_.
-MRS. CHEVELEY               _Miss Florence West_.
+CHARACTERS:
+	THE EARL OF CAVERSHAM       _Mr. Alfred Bishop_.
+	VISCOUNT GORING             _Mr. Charles H. Hawtrey_.
+	SIR ROBERT CHILTERN         _Mr. Lewis Waller_.
+	VICOMTE DE NANJAC           _Mr. Cosmo Stuart_.
+	MR. MONTFORD                _Mr. Harry Stanford_.
+	PHIPPS                      _Mr. C. H. Brookfield_.
+	MASON                       _Mr. H. Deane_.
+	JAMES                       _Mr. Charles Meyrick_.
+	HAROLD                      _Mr. Goodhart_.
+	LADY CHILTERN               _Miss Julia Neilson_.
+	LADY MARKBY                 _Miss Fanny Brough_.
+	COUNTESS OF BASILDON        _Miss Vane Featherston_.
+	MRS. MARCHMONT              _Miss Helen Forsyth_.
+	MISS MABEL CHILTERN         _Miss Maud Millet_.
+	MRS. CHEVELEY               _Miss Florence West_.
 
 
 
 
-## FIRST ACT
+## ACT I
+
 
 
 SCENE
@@ -1445,7 +1447,7 @@ the staircase and illumines the tapestry of the Triumph of Love_.]
 
 
 
-SECOND ACT
+## ACT II
 
 
 SCENE
@@ -2574,7 +2576,7 @@ sobs are like the sobs of a child_.]
 
 
 
-THIRD ACT
+## ACT III
 
 
 SCENE
@@ -3580,7 +3582,7 @@ lip_, _and lights a cigarette_.]
 
 
 
-FOURTH ACT
+## ACT IV
 
 
 SCENE
