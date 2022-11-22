@@ -32,4 +32,3 @@ He thinks that it is meant for him.
 **What are some of the expressions in** _The Times_ **that describe Sir Robert as a politician?**
 Sir Robert Chiltern ... most rising of all our statesmen ... Brilliant Orator ... Unblemished career ... Well-known integrity of Character ... Represent what is best in English public life ... Noble contrast to the lax morality of common among foreign politicians.
 
-In the final act
