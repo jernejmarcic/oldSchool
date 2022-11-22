@@ -32,4 +32,24 @@ It is the by far most progressive states in India (read [[Case study Kerala]]). 
  there are no obstacles to remarriage.
 
 6. **Suggest ways in which gender equality in Kerala can be improved.**
+Female literacy rate (92%) is still lower than male literacy rate (94%), women are marginalised in the economic processes (working population women {18%}, working population males {53%}), women are concentrated in low paying jobs.
 
+7. **Outline the main methods of tracking trafficking of people**
+The USA’s Trafficking and Violence  
+Protection Act (TVPA 2000) encourages governments to join in the fight  
+against human trafficking.  
+The TVPA contains three main components:  
+ - Protection – increased efforts to protect foreign national victims as well as non-immigrants.  
+ - Prosecution – of traffickers related to forced labour and sexual exploitation.  
+ - Prevention – to assist other governments to reduce trafficking
+
+Other attempts include:
+ - Raising public awareness
+ - Passing policies that will prevent trafficking
+ - Governments having up-to-date  registrations of births and migrations in the area
+ - Allowing trade Unions
+
+8. **Evaluate the methods to combat the trafficking of people**
+Just one of these methods will do little in preventing human trafficking, however many laws and policies together can do a lot in preventing. The most effective way to prevent human trafficking would be to fix the root problems in the source countries.
+For example:
+ - *Raising public awernes*, helps by people being more aware of the problem, and noticing the signs of it actually happening
