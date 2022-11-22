@@ -10,6 +10,6 @@
 
 **Service:**
 	- Tutoring (Computer Science Programming)
-	- ~~4 unri maraton?~~
+	- ~~28 unri maraton?~~
 	- Helping pick up trash in the surrounds of my home (Bežigrad)
 	- Setting up donation drives in the school
