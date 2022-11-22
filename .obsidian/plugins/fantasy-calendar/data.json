@@ -15,7 +15,7 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "settingsToggleState": {
-    "calendars": true,
+    "calendars": false,
     "events": false,
     "advanced": true
   },

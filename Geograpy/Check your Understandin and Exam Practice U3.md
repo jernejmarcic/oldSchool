@@ -53,3 +53,4 @@ Other attempts include:
 Just one of these methods will do little in preventing human trafficking, however many laws and policies together can do a lot in preventing. The most effective way to prevent human trafficking would be to fix the root problems in the source countries.
 For example:
  - *Raising public awernes*, helps by people being more aware of the problem, and noticing the signs of it actually happening
+ - 

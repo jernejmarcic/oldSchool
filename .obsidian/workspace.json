@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35f456162935a2b6",
+            "id": "6f8ff46ceab28dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "13458acaa2ff6b31",
+            "id": "6ed247696536391d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAS, TOK and EE/TOK/Climate activists throw black liquid at Gustav Klimt painting in Vienna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "013c6ec3d2d984f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAS, TOK and EE/TOK/tor 22 nov 2022.md",
+                "file": "Geograpy/Climate Change In Iceland.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 300
   },
   "right": {
     "id": "0fa85f8113504c8a",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAS, TOK and EE/TOK/tor 22 nov 2022.md",
+                "file": "Geograpy/Climate Change In Iceland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAS, TOK and EE/TOK/tor 22 nov 2022.md",
+                "file": "Geograpy/Climate Change In Iceland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAS, TOK and EE/TOK/tor 22 nov 2022.md"
+                "file": "Geograpy/Climate Change In Iceland.md"
               }
             }
           },
@@ -171,23 +159,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
-  "active": "013c6ec3d2d984f3",
+  "active": "6ed247696536391d",
   "lastOpenFiles": [
-    "Geograpy/Check your Understandin and Exam Practice U3.md",
-    "CAS, TOK and EE/TOK/tor 22 nov 2022.md",
-    "CAS, TOK and EE/TOK/Climate activists throw black liquid at Gustav Klimt painting in Vienna.md",
-    "CAS, TOK and EE/TOK/Are there non-human knowers?.md",
-    "Geograpy/Climate Change In Iceland.md",
-    "Geograpy/Case Stuides/Case study Nigeria.md",
-    "Geograpy/Case Stuides/Case study Kerala.md",
     "Geograpy/Climate Change In Iceland Slides.md",
-    "README.md",
-    "Geograpy/Images/PopulationFuture In china possibilites.png"
+    "Geograpy/Geography HL.md",
+    "Geograpy/Gravity model.md",
+    "Geograpy/Climate Change In Iceland.md",
+    "Geograpy/Case Stuides/Case study Japan.md",
+    "English/An Ideal Husband/An Ideal husband, By Oscar wlde.md",
+    "Geograpy/Check your Understandin and Exam Practice U3.md",
+    "Geograpy/Case Stuides/Case study Kerala.md",
+    "Geograpy/Case Stuides/Case Study South Korea.md",
+    "Geograpy/Case Stuides/Case study Russia.md"
   ]
 }

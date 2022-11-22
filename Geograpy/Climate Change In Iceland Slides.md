@@ -1,31 +1,26 @@
-#Geography
+
 
 # Climate Change In Iceland
 ![[flag-of-iceland.png]]
 <!-- slide bg="[[iceland-aurora.jpg]]" -->
 ---
 <!-- slide bg="[[iceland-map.gif]]" -->
+<style>
+* {text-align: center; color: black; -webkit-text-stroke: 1px white;}
+</style>
 
-### <font style="color:black"> Geography of Iceland </font>
-
-<font style="color:black">
-Iceland is a small Nordic country in the North Atlantic. <br>
+## <font style="color:black"> Geography of Iceland </font>
 
 
-Capital city: Reykjavik <br>
-Geographical Facts:
- - Total Area: 103.001 km2 
- - Coastline: 4.970km
- - Highest point: 2.110m 
- - 
-</font>
+
 ---
 <!-- slide bg="[[iceland-dead-glacier.jpg]]" -->
 ### <font style="color:black">How Climate change is affecting the geography of Iceland</font>
- <font style="color:black">
-In 2019 Iceland has held a "funaral" to one of their glaciers, that died due to clime change.
-In the next 200 years all the glaciers are expected to follow the same fate. 
-</font>
----
+<style>
+* {text-align: center; color: black; text-shadow: 2px 2px 4px #000000}
+</style>
+Hello
+
+
 
 
