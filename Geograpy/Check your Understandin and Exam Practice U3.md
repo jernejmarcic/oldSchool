@@ -72,4 +72,8 @@ The demographic dividend can deliver a number of benefits. The first is the incr
 	(ii) **Compare the dependency ratio of asylum seekers with that of the general population**
 		While the ratios on the graph vary wildly, with the exception of Sweden Asylum seekers generally have a lower dependency ratio than the working population.
 	(iii) **Suggest reasons for the differences you have outlined**
-		It may be due to the fact that old and young people would not be able to make the journey without assistance
+		It may be due to the fact that old and young people would not be able to make the journey without assistance from younger people, also [[Older dependant]] are less likely to travel as they do not need jobs or just stay home and rely on the [[Remittances]] that are sent by younger generations.
+
+(b)
+	(i) **Outline the meaning of the term "family planning"**
+		

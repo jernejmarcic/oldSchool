@@ -4,5 +4,6 @@
     "en-GB",
     "sl"
   ],
-  "attachmentFolderPath": "Geograpy/Images"
+  "attachmentFolderPath": "Geograpy/Images",
+  "alwaysUpdateLinks": true
 }
