@@ -8,7 +8,7 @@
 Older dependency ratio is a term used to describe the number of [[Older dependant]] to the [[Working age population]]
 
 2. **Describe Japans population structure**
-Japan has a very high number of {Old}[[Older dependant]] in comparison to their [[Working age population]]. They also struggle with having having a low [[Younger dependant]] ratio. In short Japan has too many old people and too little children are being born. This is better explained in [[Case study Japan]].
+Japan has a very high number of [[Older dependant]] in comparison to their [[Working age population]]. They also struggle with having having a low [[Younger dependant]] ratio. In short Japan has too many old people and too little children are being born. This is better explained in [[Case study Japan]].
 
 3. **Distinguish between pro-natalist policies and anti-natalist policies**
 A pro-natalist policy is a policy that encourages famalies to have children for example in the [[Case study Russia]].
@@ -89,4 +89,15 @@ The demographic dividend can deliver a number of benefits. The first is the incr
 
 (c)
 ## “No population policy has ever been successful”
-I belive this statement to be partially true. Many population policies simply did not work, or the countries 
+I believe this statement to be partially true. Many population policies simply did not work, or the countries who implemented them suffered from blowback.
+One of such examples can be the "one child policy" about which we learned in [[Case study China]]. 
+The population policy worked, people did have only one child (in urban ares), however it had unintended consequences, such as families preferring to have a boy since they can continue on the family name. This lead to a gender gap, with more boys than girls.
+Additionally to his, a country requires a total fertility ratio of at least 2.1, to keep a stable population, in China, it fell below that. This means that there are too little young dependants and too many older dependants. Another issue caused by the policy was the 1-2-4 problem, which means that one child will have to care for 2 parents and 4 grandparents.
+The one child policy in china was reversed in 2016, but the TFR has not gone above or to 2.1 since then. 
+
+An example of a population policy that did not work at all was on we learned in [[Case study Russia]]. The country because of many socio-economic reasons, completely failed to encourage its citizens to have children, while due to the policies the increases in fertility were quite large, but due to the low starting point of a TFR of only 1.3 they had barely any effect. All of the countries efforts since the 1930's had repeated reports of complete failure.
+
+For example in Singapore the "stop at 2" camaping, which encouraged parents to have no more than 2 children worked well, however like in China, Singapore is now fighting to get its birth rates up, however that can be attributed to the natural progression of development in a country, since most very developed countries are struggling with the same problem (Japan, Slovenija).
+However since a TFR of 2.1 is required for a stable population the 2 children campaign had at least a better potential to work than China's one child policy.
+
+**In conclusion,** it is hard to gauge success of population policies, since there are many factor affecting birth and death rates. In many cases a population policy appears to work, however it can cause problems in the future.
