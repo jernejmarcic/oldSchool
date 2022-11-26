@@ -76,4 +76,8 @@ The demographic dividend can deliver a number of benefits. The first is the incr
 
 (b)
 	(i) **Outline the meaning of the term "family planning"**
-		
+		Family planning is when, families choose when they want to have children. This can be done by using contraceptives (condoms, birth control pills). Couples can also permanently prevent having children, by men getting a vasectomy, and women getting their tubes tied.
+	(ii) **Describe the inequalities in access to family planning, as shown on the infographic.**
+		"73% of women with an unmet need for modern contracetpitves live in the poorest 69 countries". This infographics tells that the vast majority of women who do not have access to contraceptives live in the poorest countries. 
+	(iii) **Outline the economic benefits of family planning.**
+		Women with access to birth control have on average 40% higher earnings than those who do not. Family planning generally leads to smaller families (less younger dependants), longer lives and a general increase in incomes. 
