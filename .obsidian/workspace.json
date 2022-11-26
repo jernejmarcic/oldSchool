@@ -146,14 +146,13 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
-  "active": "6f8ff46ceab28dc7",
+  "active": "97dda4f289fbca21",
   "lastOpenFiles": [
     "Geograpy/Definitions/Younger dependant.md",
     "Computer Science/CS GIMB.md",

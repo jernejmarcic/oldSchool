@@ -80,4 +80,13 @@ The demographic dividend can deliver a number of benefits. The first is the incr
 	(ii) **Describe the inequalities in access to family planning, as shown on the infographic.**
 		"73% of women with an unmet need for modern contracetpitves live in the poorest 69 countries". This infographics tells that the vast majority of women who do not have access to contraceptives live in the poorest countries. 
 	(iii) **Outline the economic benefits of family planning.**
-		Women with access to birth control have on average 40% higher earnings than those who do not. Family planning generally leads to smaller families (less younger dependants), longer lives and a general increase in incomes. 
+		Women with access to birth control have on average 40% higher earnings than those who do not. Family planning generally leads to smaller families (less younger dependants), longer lives and a general increase in incomes. This factors can cause a *demographic divident*.
+		Additionally, for every $ spent on family planning and general reproductive health, there are significant savings in education, immunisation and water&sanitation.  
+	(iv) **Explain two reasons why family planning may lead to economic benefits for a family.**
+		REASONS:
+			1.) Family planning can cause a demographic dividend
+			2.) Women who do not have to work, can focus on their careers and have jobs, benefiting the economy
+
+(c)
+## “No population policy has ever been successful”
+I belive this statement to be partially true. Many population policies simply did not work, or the countries 
